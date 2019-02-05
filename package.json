@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/test-driven-development/diversity-and-inclusion#readme",
   "devDependencies": {
+    "diff-so-fancy": "1.2.0",
     "reveal-md": "2.1.2"
   }
 }
