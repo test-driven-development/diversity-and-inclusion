@@ -1,0 +1,28 @@
+{
+  "name": "diversity-and-inclusion",
+  "description": "Slides: Diversity and Inclusion",
+  "main": "index.js",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.5.0",
+    "npm": "6.4.1",
+    "yarn": "1.12.3"
+  },
+  "scripts": {
+    "build": "reveal-md slides.md",
+    "deploy": "yarn build --static docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test-driven-development/diversity-and-inclusion.git"
+  },
+  "author": "Wil Pannell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/test-driven-development/diversity-and-inclusion/issues"
+  },
+  "homepage": "https://github.com/test-driven-development/diversity-and-inclusion#readme",
+  "devDependencies": {
+    "reveal-md": "2.1.2"
+  }
+}
