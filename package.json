@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "reveal-md slides.md",
-    "deploy": "yarn build --static docs --static-dir=assets",
+    "deploy": "yarn build --static docs --static-dirs=assets",
     "start": "yarn build -w"
   },
   "repository": {
