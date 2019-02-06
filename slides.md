@@ -34,7 +34,7 @@ Note: how david made me feel safe
 
 <!--s-->
 
-<!-- .slide: data-background="res/hussman.png" -->
+<!-- .slide: data-background="assets/hussman.png" -->
 
 Note: the late David Hussman
 
@@ -44,7 +44,7 @@ Note: the late David Hussman
 
 &nbsp;
 
-<audio controls="controls" data-autoplay src="res/podcast.mp3"></audio>
+<audio controls="controls" data-autoplay src="assets/podcast.mp3"></audio>
 
 &nbsp;
 
@@ -54,7 +54,7 @@ _**(interview: geek joy podcast circa 2016) **_ <!-- .element: style="color:maro
 
 ## Why Black Folk aren't hired
 
-<video class="stretch" controls="controls" data-autoplay src="res/Would you want to be treated like blacks.mp4"></audio>
+<video class="stretch" controls="controls" data-autoplay src="assets/Would you want to be treated like blacks.mp4"></audio>
 
 &nbsp;
 
