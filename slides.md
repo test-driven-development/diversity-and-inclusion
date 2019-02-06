@@ -1,43 +1,64 @@
 ---
-title: Slides Template
+title: diversity and inclusion
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: solarized
+theme: white
 revealOptions:
     transition: 'fade'
 ---
-# Local
+# Diversity and Inclusion
 
-This will serve the presentation
+### Wil Pannell <!-- .element: class="fragment" -->
 
-and open a browser to view it
+Agile Engineering Coach with Jason Hobbs <!-- .element: class="fragment" -->
 
-* clone the repo
-* edit the `slides.md` file
-* then:
-```
-npm install
-npm run presentation
-```
+Make People Awesome <!-- .element: class="fragment" -->
 
-Note: This is a speaker note, you need node 6.x installed
+&nbsp;
+&nbsp;
+&nbsp;
+
+Note: whoami?
 
 <!--s-->
 
-# GitHub Pages
+# Preface
 
-* fork the repo
-* setup a build in travis for the fork - don't forget the env var with your personal access token
-* edit the `slides.md` file
-* push to github
-* view presentation on GitHub - in the project pages for your repo
+&nbsp;
 
-<!--v-->
+Psychological Safety <!-- .element: class="fragment" -->
 
-# References
+&nbsp;
 
-* [reveal-md](https://github.com/webpro/reveal-md)
-* [reveal.js](http://lab.hakim.se/reveal-js)
-* [GitHub Pages](https://pages.github.com)
-* [Travis CI](https://travis-ci.org)
-* [This template](https://github.com/martinmurphy/slidestemplate)
+Note: how david made me feel safe
+
+<!--s-->
+
+<!-- .slide: data-background="res/hussman.png" -->
+
+Note: the late David Hussman
+
+<!--s-->
+
+## How to Hire Black Folk
+
+&nbsp;
+
+<audio controls="controls" data-autoplay src="res/podcast.mp3"></audio>
+
+&nbsp;
+
+_**(interview: geek joy podcast circa 2016) **_ <!-- .element: style="color:maroon; font-size: .5em" -->
+
+<!--s-->
+
+## Why Black Folk aren't hired
+
+<video class="stretch" controls="controls" data-autoplay src="res/Would you want to be treated like blacks.mp4"></audio>
+
+&nbsp;
+
+_**(Jane Elliott: anti-racism experiment circa 1972) **_ <!-- .element: style="color:maroon; font-size: .5em" -->
+
+
+
